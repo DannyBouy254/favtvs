@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="AECrime360.us" tvg-name="AECrime360.us" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="Documentary",A&E Crime 360 (1080p)
-https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="RTDocumentary.ru" tvg-name="RTDocumentary.ru" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (720p)
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="VoyagerDocumentaries.us" tvg-name="VoyagerDocumentaries.us" tvg-logo="" group-title="Documentary",Voyager Documentaries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="WeatherGoneViral.us" tvg-name="WeatherGoneViral.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d8b9f3978154b03b203" group-title="Documentary",Weather Gone Viral
-https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8

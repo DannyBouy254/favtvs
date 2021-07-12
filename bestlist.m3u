@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="2" tvg-id="AlJazeeraDocumentary.qa" tvg-name="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (576p)
+http://teledunet.com:8080/live/azrotv/azrotv2021/10040.m3u8
